@@ -139,12 +139,10 @@ github.com/json-iterator/go v1.1.7/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/u
 github.com/json-iterator/go v1.1.8/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
-github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912025834-63a5fb8b9fde h1:Wtyl4BDAaEAOEh8f5zI/xMkFwRqmOgqZYot1jp2FCD4=
-github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912025834-63a5fb8b9fde/go.mod h1:wsmg7B0F2mtYoD8Bb+tEvpjQU5SKoFHEUXbxN/hvrYQ=
-github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912033210-f7af714a6382 h1:bIzll68c/41SXYJ0MyqGBDQ9YCMJ+FRm92xgxPtxkOE=
-github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912033210-f7af714a6382/go.mod h1:wsmg7B0F2mtYoD8Bb+tEvpjQU5SKoFHEUXbxN/hvrYQ=
 github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912073009-792c888ab681 h1:mTEjfEUX3i0mrcVoXFu2k4FBUc449HBk4l8FXinqBy4=
 github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912073009-792c888ab681/go.mod h1:wsmg7B0F2mtYoD8Bb+tEvpjQU5SKoFHEUXbxN/hvrYQ=
+github.com/kemokemo/ebiten-virtualpad v0.1.0 h1:O+QJvs+7fg6FS9B5pKNtezOrg3oji2GdbKCmTcE7tXs=
+github.com/kemokemo/ebiten-virtualpad v0.1.0/go.mod h1:wsmg7B0F2mtYoD8Bb+tEvpjQU5SKoFHEUXbxN/hvrYQ=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=

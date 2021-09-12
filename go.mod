@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/hajimehoshi/ebiten/v2 v2.1.6
-	github.com/kemokemo/ebiten-virtualpad v0.0.0-20210912073009-792c888ab681
+	github.com/kemokemo/ebiten-virtualpad v0.1.0
 )
 
 require (
